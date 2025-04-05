@@ -1,0 +1,9 @@
+[general]
+name=W3RA Explorer
+qgisMinimumVersion=3.0
+description=Visualize and analyze W3RA datasets
+version=1.0
+author=MSSJOUD
+email=mshjo@plan.aau.dk
+category=Analysis
+
